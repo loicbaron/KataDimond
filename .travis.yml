@@ -1,5 +1,8 @@
 language: node_js
 
+before_install:
+  - npm install -g typescript
+
 # command to install dependencies
 install:
   - npm i
