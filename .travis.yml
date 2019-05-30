@@ -1,0 +1,9 @@
+language: nodejs
+
+# command to install dependencies
+install:
+  - npm i
+
+# command to run tests
+script:
+  - npm test
