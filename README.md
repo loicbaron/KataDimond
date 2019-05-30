@@ -1,10 +1,6 @@
----
-title: "Diamond"
-draft: false
-date: "2017-02-03T17:23:00"
+[![Build Status](https://travis-ci.org/loicbaron/KataDimond.svg?branch=master)](https://travis-ci.org/loicbaron/KataDimond)
 
----
-    **About this Kata**
+**About this Kata**
 
 [http://codingdojo.org/kata/Diamond/](http://codingdojo.org/kata/Diamond/)
 
